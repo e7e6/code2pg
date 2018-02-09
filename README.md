@@ -1,10 +1,14 @@
 code2pg
 =======
 
+<p align="center">
+<img src="https://github.com/e7e6/code2pg/blob/master/doc/Open%20Source%20code%202%20pg.jpg" width="120">
+</p>
+
 What is code2pg ?
 -------------
 
-<img src="https://github.com/e7e6/code2pg/blob/master/doc/Open%20Source%20code%202%20pg.jpg" width="120">
+
 `code2pg` is a tool that help migrating application code that contains SQL queries from Oracle to PostgreSQL standard.
 
 It can:
