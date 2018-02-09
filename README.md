@@ -4,6 +4,7 @@ code2pg
 What is code2pg ?
 -------------
 
+![code2pg html output screenshot](doc/Open%20Source%20code%202%20pg.jpg)
 `code2pg` is a tool that help migrating application code that contains SQL queries from Oracle to PostgreSQL standard.
 
 It can:
